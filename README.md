@@ -1,7 +1,7 @@
 <div align="center">
 <h1>💫 A propos de moi:</h1>
 </div>
-Maquin Raphël, étudiant en 3e années d'informatique au Havre <br>
+Maquin Raphël, étudiant en **Master 1** IWOCS au Havre <br>
 
 
 # 💻 Mes langages:
